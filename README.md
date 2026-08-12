@@ -2,7 +2,7 @@
 
 운영매니저를 위한 **향상도 · 평가평균 · 출결 점수 자동 계산 웹앱**입니다.
 
-👉 **[웹앱 바로 열기](https://leebuyong.github.io/-TS-AX-Learning-Excellent-Student-Calculation-Web/)**
+👉 **[웹앱 바로 열기](https://leebuyong.github.io/TS-AX-Learning-Excellent-Student-Calculation-Web/)**
 
 ---
 
